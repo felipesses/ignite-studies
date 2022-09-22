@@ -1,0 +1,32 @@
+.header {
+    background: var(--gray-800);
+    display: flex;
+    justify-content: center;
+    padding: 1.25rem 0;
+}
+
+.header img {
+    height: 2rem; /* 32px */
+}
+
+.headerTitle {
+    align-items: center;
+    font-weight: 700;
+    font-size: 1.625rem;
+    color: var(--gray-100);
+    margin: 0 1rem;
+}
+
+/* 1rem = 16px
+0.25rem = 4px
+
+
+1.25 = 20px
+
+1rem = 16px
+xrem = 26px
+
+16x = 26
+x = 26/16
+x = 
+ */
